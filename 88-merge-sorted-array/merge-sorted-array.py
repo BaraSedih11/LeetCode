@@ -31,9 +31,6 @@ class Solution:
     
         while len(nums1) < size:
             nums1.append(0)
-            print(nums1)
-            print(len(nums1))
-            print(size)
         
         
         
